@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3157edc.chunk.css",
-    "main.js": "/static/js/main.93ec0ff3.chunk.js",
-    "main.js.map": "/static/js/main.93ec0ff3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5670e71e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5670e71e.js.map",
-    "static/css/2.1d10ae30.chunk.css": "/static/css/2.1d10ae30.chunk.css",
-    "static/js/2.41a07f2d.chunk.js": "/static/js/2.41a07f2d.chunk.js",
-    "static/js/2.41a07f2d.chunk.js.map": "/static/js/2.41a07f2d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3e75daa2bc54d16fe51370b775e9d67c.js": "/precache-manifest.3e75daa2bc54d16fe51370b775e9d67c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.1d10ae30.chunk.css.map": "/static/css/2.1d10ae30.chunk.css.map",
-    "static/css/main.b3157edc.chunk.css.map": "/static/css/main.b3157edc.chunk.css.map",
-    "static/js/2.41a07f2d.chunk.js.LICENSE.txt": "/static/js/2.41a07f2d.chunk.js.LICENSE.txt"
+    "main.css": "/tic-tac-toe/static/css/main.b3157edc.chunk.css",
+    "main.js": "/tic-tac-toe/static/js/main.49f78ed9.chunk.js",
+    "main.js.map": "/tic-tac-toe/static/js/main.49f78ed9.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toe/static/js/runtime-main.423d23ef.js",
+    "runtime-main.js.map": "/tic-tac-toe/static/js/runtime-main.423d23ef.js.map",
+    "static/css/2.1d10ae30.chunk.css": "/tic-tac-toe/static/css/2.1d10ae30.chunk.css",
+    "static/js/2.41a07f2d.chunk.js": "/tic-tac-toe/static/js/2.41a07f2d.chunk.js",
+    "static/js/2.41a07f2d.chunk.js.map": "/tic-tac-toe/static/js/2.41a07f2d.chunk.js.map",
+    "index.html": "/tic-tac-toe/index.html",
+    "precache-manifest.358dce1496b266f711f3cf8dc470818a.js": "/tic-tac-toe/precache-manifest.358dce1496b266f711f3cf8dc470818a.js",
+    "service-worker.js": "/tic-tac-toe/service-worker.js",
+    "static/css/2.1d10ae30.chunk.css.map": "/tic-tac-toe/static/css/2.1d10ae30.chunk.css.map",
+    "static/css/main.b3157edc.chunk.css.map": "/tic-tac-toe/static/css/main.b3157edc.chunk.css.map",
+    "static/js/2.41a07f2d.chunk.js.LICENSE.txt": "/tic-tac-toe/static/js/2.41a07f2d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5670e71e.js",
+    "static/js/runtime-main.423d23ef.js",
     "static/css/2.1d10ae30.chunk.css",
     "static/js/2.41a07f2d.chunk.js",
     "static/css/main.b3157edc.chunk.css",
-    "static/js/main.93ec0ff3.chunk.js"
+    "static/js/main.49f78ed9.chunk.js"
   ]
 }
