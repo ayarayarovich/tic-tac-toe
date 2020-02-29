@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## GitHub Pages
 
-https://ayarayarovich.github.com/tic-tac-toe/
+https://ayarayarovich.github.io/tic-tac-toe/
 
 ## Available Scripts
 
