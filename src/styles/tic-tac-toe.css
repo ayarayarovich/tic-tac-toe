@@ -1,0 +1,27 @@
+.board {
+    display: flex;
+    flex-direction: column;
+}
+
+table {
+    border-collapse: collapse;
+    border: none;
+}
+
+td {
+    border: 0.1rem solid rgb(235, 235, 235);
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.board-cell__button {
+    font-size: var(--cell-font-size);
+    background: none;
+    border: none;
+    width: calc(var(--cell-font-size) * 1.5);
+    height: calc(var(--cell-font-size) * 1.5);
+
+}
